@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.main {
+    display: flex;
+    flex-direction: row;
+    border: solid;
+    border-color: black;
+    justify-content: space-between;
+    background-image: url(https://defense-92.fr/wp-content/uploads/2017/06/DSC_9444.jpg);
+    background-attachment: fixed;
+}
+.element {
+    display: flex;
+}
